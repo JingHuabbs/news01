@@ -1,0 +1,16 @@
+建立一个文件夹
+考文件
+
+git init
+git add .
+git commit -m "abc"
+
+git remote add 名字 远程仓库地址
+
+
+git pull 名字 master --allow-unrelated-histories
+
+:wq
+退出
+
+git push 名字 master
